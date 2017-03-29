@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectDictionaryState">
-    <dictionary name="nguyenkh" />
+  <component name="IpnbSettings">
+    <option name="URL" value="http://127.0.0.1:8889/?token=a7be3a1c-0614-4df3-ab61-120c4e762329" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -20,13 +20,6 @@
     </entry>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.12 (~/anaconda2/bin/python)" project-jdk-type="Python SDK" />
-  <component name="PyConsoleOptionsProvider">
-    <option name="myPythonConsoleState">
-      <console-settings is-module-sdk="true">
-        <option name="myUseModuleSdk" value="true" />
-      </console-settings>
-    </option>
-  </component>
   <component name="masterDetails">
     <states>
       <state key="ScopeChooserConfigurable.UI">
